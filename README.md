@@ -110,6 +110,12 @@ streamlit run app/streamlit_app.py
 Python · PyTorch · Hugging Face Transformers · DistilBERT · Streamlit · Pandas · NumPy · Scikit-learn · Matplotlib
 
 
+## 🤗 Model
+
+The fine-tuned DistilBERT sentiment model is hosted on Hugging Face:
+
+[View the model on Hugging Face](https://huggingface.co/nisarg0902/product-review-distilbert-sentiment)
+
 👤 Author
 
 Nisarg Chaudhari
