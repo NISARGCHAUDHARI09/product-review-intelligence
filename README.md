@@ -113,21 +113,21 @@ The fine-tuned DistilBERT sentiment model is hosted on Hugging Face:
 
 ## 🏗️ Architecture
 
-![Project Architecture](assets/architecture-diagram.png)
+[Project Architecture](assets/architecture-diagram.png)
 
 ## 📊 Dashboard
 
-![Overall Sentiment](assets/dashboard-1.png)
+[Overall Sentiment](assets/dashboard-1.png)
 
-![Sentiment Probabilities](assets/dashboard-2.png)
+[Sentiment Probabilities](assets/dashboard-2.png)
 
-![Aspect-Based Sentiment](assets/dashboard-3.png)
+[Aspect-Based Sentiment](assets/dashboard-3.png)
 
-![Review Analysis](assets/dashboard-4.png)
+[Review Analysis](assets/dashboard-4.png)
 
 ## 📈 Model Evaluation
 
-![Confusion Matrix](assets/canfusion_matrix.png)
+[Confusion Matrix](assets/canfusion_matrix.png)
 
 
 
