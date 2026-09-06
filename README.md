@@ -37,7 +37,7 @@ Sentiment           ↓                    ↓
  └────────────┬───────┘
               ↓
       Streamlit Dashboard
-
+```
 
 📦 Dataset
 
@@ -81,13 +81,13 @@ The dashboard provides:
 - Relevant review context
 - Analysis summary
 
-
+```text
 
 ⚙️ Run Locally
 
 1. Clone the repository
 
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/NISARGCHAUDHARI09/product-review-intelligence
 cd product-review-intelligence
 
 2. Install dependencies
@@ -97,10 +97,12 @@ pip install -r requirements.txt
 3. Launch the dashboard
 
 streamlit run app/streamlit_app.py
+```
 
 🛠️ Tech Stack
 
 Python · PyTorch · Hugging Face Transformers · DistilBERT · Streamlit · Pandas · NumPy · Scikit-learn · Matplotlib
+
 
 
 ## 🤗 Model
@@ -113,21 +115,21 @@ The fine-tuned DistilBERT sentiment model is hosted on Hugging Face:
 
 ## 🏗️ Architecture
 
-[Project Architecture](assets/architecture-diagram.png)
+![Project Architecture](assets/architecture-diagram.png)
 
 ## 📊 Dashboard
 
-[Overall Sentiment](assets/dashboard-1.png)
+![Overall Sentiment](assets/dashboard-1.png)
 
-[Sentiment Probabilities](assets/dashboard-2.png)
+![Sentiment Probabilities](assets/dashboard-2.png)
 
-[Aspect-Based Sentiment](assets/dashboard-3.png)
+![Aspect-Based Sentiment](assets/dashboard-3.png)
 
-[Review Analysis](assets/dashboard-4.png)
+![Review Analysis](assets/dashboard-4.png)
 
 ## 📈 Model Evaluation
 
-[Confusion Matrix](assets/canfusion_matrix.png)
+![Confusion Matrix](assets/canfusion_matrix.png)
 
 
 
