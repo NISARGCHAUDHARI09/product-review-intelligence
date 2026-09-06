@@ -81,13 +81,6 @@ The dashboard provides:
 - Relevant review context
 - Analysis summary
 
-#------------------------------------------
-# Dashboard Images
-#------------------------------------------
-
-<p align="center">
-  <img src="" alt="Project Banner" width="600">
-</p>
 
 
 ⚙️ Run Locally
@@ -115,6 +108,28 @@ Python · PyTorch · Hugging Face Transformers · DistilBERT · Streamlit · Pan
 The fine-tuned DistilBERT sentiment model is hosted on Hugging Face:
 
 [View the model on Hugging Face](https://huggingface.co/nisarg0902/product-review-distilbert-sentiment)
+
+
+
+## 🏗️ Architecture
+
+![Project Architecture](assets/architecture-diagram.png)
+
+## 📊 Dashboard
+
+![Overall Sentiment](assets/dashboard-1.png)
+
+![Sentiment Probabilities](assets/dashboard-2.png)
+
+![Aspect-Based Sentiment](assets/dashboard-3.png)
+
+![Review Analysis](assets/dashboard-4.png)
+
+## 📈 Model Evaluation
+
+![Confusion Matrix](assets/canfusion_matrix.png)
+
+
 
 👤 Author
 
