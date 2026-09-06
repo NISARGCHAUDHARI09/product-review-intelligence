@@ -240,7 +240,8 @@ def load_models():
             f"Model directory not found:\n{MODEL_DIR}"
         )
 
-    predictor = SentimentPredictor(str(MODEL_DIR))
+    predictor = SentimentPredictor(
+    "nisarg0902/product-review-distilbert-sentiment")
     analyzer = AspectSentimentAnalyzer(predictor)
 
     return predictor, analyzer
